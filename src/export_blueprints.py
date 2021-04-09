@@ -2,9 +2,9 @@
 
 """
 
-    save_blueprints.py
+    export_blueprints.py
 
-    Connect to a Nutanix Prism Central instance, grab all Calm blueprints and save them to JSON files.
+    Connect to a Nutanix Prism Central instance, grab all Calm blueprints and export them to JSON files.
 
     You would need to *heavily* modify this script for use in a production environment so that it contains appropriate error-checking and exception handling.
 
