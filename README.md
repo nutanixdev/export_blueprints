@@ -1,4 +1,4 @@
-# Save Calm Blueprints
+# Export Calm Blueprints
 
 Python 3.8 script to connect to Prism Central 5.19 or above and export all Nutanix Calm blueprints to JSON files.
 
